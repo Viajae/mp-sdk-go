@@ -5,9 +5,9 @@ import (
 	"fmt"
 
 	"github.com/google/uuid"
-	"github.com/mercadopago/sdk-go/pkg/config"
-	"github.com/mercadopago/sdk-go/pkg/merchantorder"
-	"github.com/mercadopago/sdk-go/pkg/preference"
+	"github.com/viajae/mp-sdk-go/pkg/config"
+	"github.com/viajae/mp-sdk-go/pkg/merchantorder"
+	"github.com/viajae/mp-sdk-go/pkg/preference"
 )
 
 func main() {

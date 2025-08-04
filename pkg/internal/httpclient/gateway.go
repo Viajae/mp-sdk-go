@@ -5,8 +5,8 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/mercadopago/sdk-go/pkg/mperror"
-	"github.com/mercadopago/sdk-go/pkg/requester"
+	"github.com/viajae/mp-sdk-go/pkg/mperror"
+	"github.com/viajae/mp-sdk-go/pkg/requester"
 )
 
 func Send(requester requester.Requester, req *http.Request) ([]byte, error) {

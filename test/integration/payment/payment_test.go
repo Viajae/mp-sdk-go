@@ -6,9 +6,9 @@ import (
 	"testing"
 
 	"github.com/google/uuid"
-	"github.com/mercadopago/sdk-go/pkg/cardtoken"
-	"github.com/mercadopago/sdk-go/pkg/payment"
-	"github.com/mercadopago/sdk-go/test"
+	"github.com/viajae/mp-sdk-go/pkg/cardtoken"
+	"github.com/viajae/mp-sdk-go/pkg/payment"
+	"github.com/viajae/mp-sdk-go/test"
 )
 
 var (

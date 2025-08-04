@@ -4,8 +4,8 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/mercadopago/sdk-go/pkg/config"
-	"github.com/mercadopago/sdk-go/pkg/internal/httpclient"
+	"github.com/viajae/mp-sdk-go/pkg/config"
+	"github.com/viajae/mp-sdk-go/pkg/internal/httpclient"
 )
 
 const url = "https://api.mercadopago.com/v1/payment_methods"

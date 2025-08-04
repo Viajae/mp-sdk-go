@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/mercadopago/sdk-go/pkg/config"
-	"github.com/mercadopago/sdk-go/pkg/merchantorder"
+	"github.com/viajae/mp-sdk-go/pkg/config"
+	"github.com/viajae/mp-sdk-go/pkg/merchantorder"
 )
 
 func main() {

@@ -5,8 +5,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/mercadopago/sdk-go/pkg/config"
-	"github.com/mercadopago/sdk-go/pkg/preference"
+	"github.com/viajae/mp-sdk-go/pkg/config"
+	"github.com/viajae/mp-sdk-go/pkg/preference"
 )
 
 func TestPreference(t *testing.T) {

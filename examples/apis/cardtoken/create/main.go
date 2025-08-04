@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/mercadopago/sdk-go/pkg/cardtoken"
-	"github.com/mercadopago/sdk-go/pkg/config"
+	"github.com/viajae/mp-sdk-go/pkg/cardtoken"
+	"github.com/viajae/mp-sdk-go/pkg/config"
 )
 
 func main() {

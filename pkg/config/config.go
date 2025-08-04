@@ -3,8 +3,8 @@ package config
 import (
 	"fmt"
 
-	"github.com/mercadopago/sdk-go/pkg/internal/defaultrequester"
-	"github.com/mercadopago/sdk-go/pkg/requester"
+	"github.com/viajae/mp-sdk-go/pkg/internal/defaultrequester"
+	"github.com/viajae/mp-sdk-go/pkg/requester"
 )
 
 // Config allows you to send custom settings and API authentication

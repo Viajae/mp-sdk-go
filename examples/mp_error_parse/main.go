@@ -5,9 +5,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/mercadopago/sdk-go/pkg/config"
-	"github.com/mercadopago/sdk-go/pkg/mperror"
-	"github.com/mercadopago/sdk-go/pkg/payment"
+	"github.com/viajae/mp-sdk-go/pkg/config"
+	"github.com/viajae/mp-sdk-go/pkg/mperror"
+	"github.com/viajae/mp-sdk-go/pkg/payment"
 )
 
 func main() {

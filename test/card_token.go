@@ -3,7 +3,7 @@ package test
 import (
 	"context"
 
-	"github.com/mercadopago/sdk-go/pkg/cardtoken"
+	"github.com/viajae/mp-sdk-go/pkg/cardtoken"
 )
 
 func GenerateCardToken(ctx context.Context, client cardtoken.Client) (string, error) {

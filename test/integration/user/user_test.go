@@ -5,8 +5,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/mercadopago/sdk-go/pkg/config"
-	"github.com/mercadopago/sdk-go/pkg/user"
+	"github.com/viajae/mp-sdk-go/pkg/config"
+	"github.com/viajae/mp-sdk-go/pkg/user"
 )
 
 func TestUser(t *testing.T) {
