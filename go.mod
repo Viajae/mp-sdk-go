@@ -1,4 +1,4 @@
-module github.com/mercadopago/sdk-go
+module github.com/viajae/mp-sdk-go
 
 go 1.18.0
 
